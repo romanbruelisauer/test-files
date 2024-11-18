@@ -64,7 +64,7 @@
             "type": "part",
             "reference": {
               "location": "https://raw.githubusercontent.com/dm385/cad-files/main/json-assembly/LBracket.ofb",
-              "type": "json"
+              "type": "ofb"
             }
           },
           {
@@ -88,7 +88,7 @@
                   "type": "part",
                   "reference": {
                     "location": "https://raw.githubusercontent.com/dm385/cad-files/main/json-assembly/Bolt.ofb",
-                    "type": "json"
+                    "type": "ofb"
                   }
                 },
                 {
@@ -96,7 +96,7 @@
                   "type": "part",
                   "reference": {
                     "location": "https://raw.githubusercontent.com/dm385/cad-files/main/json-assembly/Nut.ofb",
-                    "type": "json"
+                    "type": "ofb"
                   }
                 }
               ],
@@ -213,7 +213,7 @@
             "type": "part",
             "reference": {
               "location": "https://raw.githubusercontent.com/dm385/cad-files/main/json-assembly/Rod.ofb",
-              "type": "json"
+              "type": "ofb"
             }
           },
           {
@@ -221,7 +221,7 @@
             "type": "part",
             "reference": {
               "location": "https://raw.githubusercontent.com/dm385/cad-files/main/json-assembly/Nut.ofb",
-              "type": "json"
+              "type": "ofb"
             }
           }
         ],
